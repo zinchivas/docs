@@ -76,7 +76,7 @@
     "remark-code-extra": "^1.0.1",
     "remark-gemoji-to-emoji": "^1.1.0",
     "remark-gfm": "^1.0.0",
-    "remark-parse": "^9.0.0",
+    "remark-parse": "^10.0.0",
     "remark-parse-no-trim": "^8.0.4",
     "remark-rehype": "^8.1.0",
     "revalidator": "^0.3.1",
